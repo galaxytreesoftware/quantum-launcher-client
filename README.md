@@ -23,6 +23,8 @@ Quickly search your entire PC for installed emulators, and import them in one cl
 **Manage Multiple Emulators**
 
 For when compatability differs between versions or emulators, maintain multiple versions of each emulator. Try the latest versions to see if there are improvements or regressions.
+Quantum Launcher can check if the emulator has been setup yet (if it needs a BIOS file etc.) and assist in the process. Also receive helpful hints, such as when the emulator does not support the file format of a game, removing the ambiguity of "failed to launch" messages.
+
 <img src="https://github.com/galaxytreesoftware/quantum-launcher-client/assets/124552176/dfca242c-29c3-45e4-a38d-a134e059eec9" width="800" />
 
 **Pause Screen Overlay**
@@ -37,5 +39,5 @@ At any time during gameplay, press the hotkey to bring up the pause screen and u
 
 Remembering controller mappings when emulating various consoles can certainly be confusing. At any time, press the hotkey to bring up the pause screen and get a live preview of your current controller and the controller of the emulated console, and see how each button or axis is mapped. 
 
-https://github.com/galaxytreesoftware/quantum-launcher-client/assets/124552176/92bf5769-a650-4b05-b7d7-ae66df2127d8
 
+<video width="400" height="400" src="https://github.com/galaxytreesoftware/quantum-launcher-client/assets/124552176/92bf5769-a650-4b05-b7d7-ae66df2127d8">
