@@ -12,12 +12,14 @@ We are currently at version 0.3.3 BETA. Development began September 2022. Some f
 ## Current Features
 **Automated ROM scanner**
 
-Features an automated ROM scanner that is fast, even when detecting more difficult game formats, such as Playstation 3 and Wii U.
+Features an automated ROM scanner that is fast, even when games are within zip files, or detecting more difficult game formats, such as Playstation 3 and Wii U.
+
 <img src="https://github.com/galaxytreesoftware/quantum-launcher-client/assets/124552176/f4698755-c4e7-4e23-9df2-02a55f1599e2" width="800" />
 
 **Emulator Scanner**
 
 Quickly search your entire PC for installed emulators, and import them in one click. Launch parameters are automatically configured and can be changed before launch. No manual setup needed. If emulators aren't pre-installed, you can also download them through the application.
+
 <img src="https://github.com/galaxytreesoftware/quantum-launcher-client/assets/124552176/05356dfe-1762-4973-bcc2-48ae6e1649c2" width="800" />
 
 **Manage Multiple Emulators**
@@ -29,8 +31,29 @@ Quantum Launcher can check if the emulator has been setup yet (if it needs a BIO
 
 **Pause Screen Overlay**
 
-At any time during gameplay, press the hotkey to bring up the pause screen and use your gamepad to exit emulation and return to the user interface or perform emulator specific functionality.
+At any time during gameplay, press the controller hotkey to bring up the pause screen and use your gamepad to exit emulation and return to the user interface or perform emulator specific functionality.
 <img src="https://github.com/galaxytreesoftware/quantum-launcher-client/assets/124552176/51381ebc-e7f2-4753-b940-9e6e3111a852" width="800" />
+
+**Import Games From Various Storefronts**
+
+With zero configuration, import all of your games from various storefronts, ready to launch within seconds.
+
+![import from storefront](https://github.com/user-attachments/assets/dae9d679-cdb5-4c3b-a50f-21e952f609b6)
+
+**Partial Support For EmulationStation Desktop Edition Themes**
+
+Download and use ES-DE themes to launch your games with style.
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img width="49%" alt="es-de-theme-2" src="https://github.com/user-attachments/assets/2b49bb9e-05bd-4a82-a2d2-11e23a363039">
+<img width="49%" alt="es-de-theme-1" src="https://github.com/user-attachments/assets/26ac2b9c-298b-479b-b82a-b0d4e55016f4">
+  <img width="49%" alt="es-de-theme-7" src="https://github.com/user-attachments/assets/c428f816-426b-41de-94dd-e480c10f8421">
+<img width="49%" alt="es-de-theme-6" src="https://github.com/user-attachments/assets/5a9592e1-9887-40f4-b354-9bd98142764c">
+<img width="49%" alt="es-de-theme-4" src="https://github.com/user-attachments/assets/22e52413-9cef-47b4-a190-02ada512c912">
+<img width="49%" alt="es-de-theme-3" src="https://github.com/user-attachments/assets/c41c1c79-e071-48ee-97d7-83c152273473">
+<img width="49%" alt="es-de-theme-5" src="https://github.com/user-attachments/assets/a7d397e9-54e8-4c2c-a010-03e023fc0f8d">
+  <img width="49%" alt="es-de-theme-8" src="https://github.com/user-attachments/assets/3e837d9e-796f-4fa4-9bf9-354fb34683fe">
+</div>
 
 
 ## Proposed Features
