@@ -32,6 +32,8 @@ Quantum Launcher can check if the emulator has been setup yet (if it needs a BIO
 **Pause Screen Overlay**
 
 At any time during gameplay, press the controller hotkey to bring up the pause screen and use your gamepad to exit emulation and return to the user interface or perform emulator specific functionality.
+Add your own entries to the menu by setting custom hotkey combinations to change discs etc.
+
 <img src="https://github.com/galaxytreesoftware/quantum-launcher-client/assets/124552176/51381ebc-e7f2-4753-b940-9e6e3111a852" width="800" />
 
 **Import Games From Various Storefronts**
