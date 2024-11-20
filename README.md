@@ -1,13 +1,13 @@
 <img src="https://github.com/galaxytreesoftware/quantum-launcher-client/assets/124552176/78b9da8b-5fef-4f13-a9d6-7a263b2ca7fb" width="800" />
 
 # What is Quantum Game Launcher?
-Quantum Game Launcher is a fast and free application to combine all of your games into one central location. It is designed to be the first and final destination for those who are into legal emulation. Those who are experienced and even those who have no experience at all are made to feel at home. No tutorials needed, because the program itself is the tutorial.
+Quantum Game Launcher is a fast and free Windows application (Linux and Mac coming eventually) written in Java, Rust and Javascript, designed to combine all of your games into one central location. It is designed to be the first and final destination for those who are into legal emulation. Those who are experienced and even those who have no experience at all are made to feel at home. No tutorials needed, because the program itself lends a helping hand.
 
 
 <img src="https://github.com/galaxytreesoftware/quantum-launcher-client/assets/124552176/04295656-04c2-443c-9a04-e9259f081084" width="1000" />
 
 ## Current state of the project
-We are currently at version 0.3.3 BETA. Development began September 2022. Some features may be noticeably incomplete, but a lot of the core foundation is ready. You can import your games, download metadata for them, and launch them through your emulators. Development is non-linear and may seem slow, but that is because we develop to a high standard and focus on unique features.
+We are currently at version 0.3.3 BETA. Development began September 2022. Some features may be noticeably incomplete, but a lot of the core foundation is ready. You can import your games, download metadata for them, and launch them through your emulators. Development is non-linear and may seem slow, but that is because we develop to a high standard and focus on unique features. The latest releases are not currently public, 
 
 ## Current Features
 **Automated ROM scanner**
@@ -57,6 +57,15 @@ Download and use ES-DE themes to launch your games with style.
   <img width="49%" alt="es-de-theme-8" src="https://github.com/user-attachments/assets/3e837d9e-796f-4fa4-9bf9-354fb34683fe">
 </div>
 
+**Controller Support**
+
+Plug and play support for the most common game controllers such as Xbox, PS4 and PS5.
+
+
+**Efficiency at the forefront**
+
+A typical startup time of ~1sec for 1000 games, the entire application package is around ~70MB, memory usage of ~400mb and an ultra optimised grid view capable of displaying hundreds of thousands of game entries without any distinguishable interface lag.
+Experimental unreleased builds have lowered memory usage by ~100mb, and have been able to lower startup time to 400 milliseconds consistently. All tests were done on hardware 2 generations old.
 
 ## Proposed Features
 
