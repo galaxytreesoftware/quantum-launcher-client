@@ -64,7 +64,7 @@ Plug and play support for the most common game controllers such as Xbox, PS4 and
 
 **Efficiency at the forefront**
 
-A typical startup time of ~1sec for 1000 games, the entire application package is around ~70MB, memory usage of ~400mb and an ultra optimised grid view capable of displaying hundreds of thousands of game entries without any distinguishable interface lag.
+A typical startup time of 600-700 milliseconds for 1000 games, the entire application package is around ~70MB, memory usage of ~400mb and an ultra optimised grid view capable of displaying hundreds of thousands of game entries without any distinguishable interface lag.
 Experimental unreleased builds have lowered memory usage by ~100mb, and have been able to lower startup time to 400 milliseconds consistently. All tests were done on hardware 2 generations old.
 
 ## Proposed Features
