@@ -42,9 +42,9 @@ With zero configuration, import all of your games from various storefronts, read
 
 ![import from storefront](https://github.com/user-attachments/assets/dae9d679-cdb5-4c3b-a50f-21e952f609b6)
 
-**Partial Support For EmulationStation Desktop Edition Themes**
+**Support For EmulationStation Desktop Edition Themes (Beta)**
 
-Download and use ES-DE themes to launch your games with style.
+With a custom rendering engine and translation layer, download and use your favourite ES-DE themes to launch your games with style.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img width="49%" alt="es-de-theme-2" src="https://github.com/user-attachments/assets/2b49bb9e-05bd-4a82-a2d2-11e23a363039">
